@@ -1,4 +1,4 @@
-# Dockerfile Instructions
+### Dockerfile Instructions
 
 **FROM Command**
 <br>
@@ -11,7 +11,7 @@ An `image` will be from docker hub or local reops and `tag` will be the version 
 + example ->  FROM myregistry.example.com/myimage:latest
  
 
- ### Create image out of Dockerfile
+ ##### Create image out of Dockerfile
 
  `docker build -t <name> .`
 
