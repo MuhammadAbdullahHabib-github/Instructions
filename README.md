@@ -1,6 +1,7 @@
 # Dockerfile Instructions
 
 **FROM Command**
+<br>
 `FROM <image>:<tag>`
 <br>
 An `image` will be from docker hub or local reops and `tag` will be the version of image.
