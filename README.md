@@ -1,5 +1,5 @@
-# Docker
-`docker --version`
+# Docker<br>
+`docker --version`<br>
 `docker info`
 
 ### Dockerfile Instructions
