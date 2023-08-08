@@ -1,3 +1,7 @@
+# Docker
+`docker --version`
+`docker info`
+
 ### Dockerfile Instructions
 
 **FROM Command**
