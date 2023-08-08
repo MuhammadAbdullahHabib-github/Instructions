@@ -27,4 +27,4 @@ An `image` will be from docker hub or local reops and `tag` will be the version 
 abcdef123456   nginx:latest         "nginx -g 'daemon…"  2 hours ago    Exited (0) 2 hours ago                           inspiring_elion
 ghijkl789012   postgres:12.5        "docker-entrypoint…" 3 days ago     Up 3 days                                        pensive_hopper
 ```
-###### The `docker images` command is used to list all the Docker images that are currently present on your system.
+##### The `docker images` command is used to list all the Docker images that are currently present on your system.
