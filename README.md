@@ -18,7 +18,7 @@ An `image` will be from docker hub or local reops and `tag` will be the version 
  + `-t tag for new namee`
  - `. is showing current file`
 
-#### hceckinf preocee status
+#### checking preocss status
 `docker ps -a`
 + `ps -> process state`
 - `-a flag for all`
