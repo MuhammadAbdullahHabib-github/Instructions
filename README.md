@@ -28,6 +28,6 @@ abcdef123456   nginx:latest         "nginx -g 'daemon…"  2 hours ago    Exited
 ghijkl789012   postgres:12.5        "docker-entrypoint…" 3 days ago     Up 3 days                                        pensive_hopper
 ```
 ##### The `docker images` command is used to list all the Docker images that are currently present on your system.
-### RUN DOCKER IMAGE -> Container
-`docker run -it --name <container name> <image>  /bin/bash/`
+### RUN DOCKER IMAGE To Make Container
+`docker run -it --name <container name> <image>  /bin/bash/`<br>
 When you use /bin/bash in various contexts, you're essentially instructing the system to run the Bash shell
